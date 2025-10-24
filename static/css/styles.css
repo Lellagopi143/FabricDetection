@@ -1,0 +1,17 @@
+body {
+    background-color: #f8f9fa;
+}
+
+h1 {
+    text-align: center;
+    color: #343a40;
+}
+
+.card-title {
+    font-weight: bold;
+}
+
+.card img {
+    height: 250px;
+    object-fit: cover;
+}

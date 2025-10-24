@@ -1,0 +1,25 @@
+# Ignore virtual environments
+venv/
+.venv/
+env/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs and temp files
+*.log
+*.tmp
+
+# Model or data files (optional if tracked with LFS)
+*.h5
+*.pt
+*.pkl
+*.zip
